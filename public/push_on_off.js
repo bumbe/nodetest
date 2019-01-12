@@ -1,6 +1,6 @@
 /*
 Pushbutton med node.js
-button inkopplad vis 1 Kohm från GPIO 23
+button inkopplad via 1 Kohm från GPIO 23
 LED inlopplad till GPIO 18
 Om status=0 så tänds LED (=button presses)
 Om status=1 så släcks LED (=button released)
